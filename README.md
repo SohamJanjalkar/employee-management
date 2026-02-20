@@ -21,7 +21,7 @@ cd client
 npm start
 
 ### Backend
-```bash
+bash
 cd server
 npm install
 npx nodemon index.js
