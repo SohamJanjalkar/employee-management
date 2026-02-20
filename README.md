@@ -14,6 +14,11 @@
 - Responsive Dashboard UI
 
 ## How to Run
+###Frontend 
+
+bash
+cd client
+npm start
 
 ### Backend
 ```bash
