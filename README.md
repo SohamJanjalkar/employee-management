@@ -56,24 +56,6 @@ This project implements authentication, employee CRUD operations, image upload, 
   - Gender
 - Search and filters work together using query parameters
 
-## 🗂️ Project Structure
-
-employee-management/
-│
-├── client/ # React frontend
-│ ├── public/
-│ └── src/
-│ ├── pages/
-│ └── components/
-│
-├── server/ # Node + Express backend
-│ ├── routes/
-│ ├── models/
-│ ├── middleware/
-│ └── uploads/
-│
-└── README.md
-
 🔐 Authentication Flow
 
 User logs in using username/email & password
@@ -89,7 +71,7 @@ Multer stores images in server/uploads/
 Images are served statically using Express
 Images displayed in dashboard table
 
-API Endpoints
+!API Endpoints
 Auth
 POST /api/auth/login – User login
 POST /api/auth/register – User registration (if enabled)
