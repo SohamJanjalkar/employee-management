@@ -16,7 +16,7 @@
 ## How to Run
 ###Frontend 
 
-bash
+```bash
 cd client
 npm start
 
