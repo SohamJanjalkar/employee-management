@@ -103,8 +103,8 @@ All employee routes are JWT protected.
 
 Setup Instructions (Local)
 
-``` Clone the Repository
-bash
+Clone the Repository
+```bash
 git clone https://github.com/<your-username>/employee-management-mern.git
 cd employee-management-mern
 
