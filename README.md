@@ -1,4 +1,3 @@
-
 # Employee Management System (MERN Stack)
 
 A full-stack Employee Management application built using the MERN stack.  
